@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Vivid Warm Filter",
+  "description": "An application that uses AI to apply a cinematic 'Vivid Warm' filter to your photos, enhancing vibrancy and mood for a professional, film-like feel.",
+  "requestFramePermissions": []
+}
